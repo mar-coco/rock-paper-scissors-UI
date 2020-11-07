@@ -1,0 +1,227 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: black;
+}
+
+.scorecard {
+    text-align: center;
+    height: 40px
+
+}
+
+.playerScore {
+    float: left;
+    text-align: center;
+    margin-left: 30vw;
+}
+
+.computerScore {
+    float: right;
+    text-align: center;
+    margin-right: 30vw
+}
+
+#container {
+    text-align: center;
+    height: 200px;
+}
+
+.selection {
+    height:75%;
+    display: inline-block;
+    margin: 5px;
+}
+
+.selectionInvalid {
+    height:75%;
+    display: inline-block;
+    margin: 5px;
+}
+
+.selection:hover {
+    border-color: black;
+    border: solid;
+}
+
+#rounds { 
+    text-align: center;
+}
+
+#result { 
+    text-align: center;
+}
+
+/*
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+  }
+
+a:visited {
+    color: black;
+}
+
+.nav-bar {
+    height: 120px;
+}
+
+.nav-bar-col1 {
+    float: left;
+    height: 100%;
+    padding-left: 8px;
+}
+
+.nav-bar-col2 {
+    float: right;
+    height: 100%;
+    padding-right: 5px;
+    margin-right: 70px;
+}
+
+.nav-bar-button-left {
+    float: left;
+    vertical-align: top;
+    margin: 15px 8px;
+    height: 100%;
+}
+
+.nav-bar-button-right {
+    float: right;
+    vertical-align: top;
+    margin: 15px 8px;
+    height: 100%;
+}
+
+.wrapper {
+    display: inline-block;
+    width: 100vw;
+}
+
+#apps {
+    float: block;
+    height: 25px;
+    width: auto;
+    position: absolute;
+    top: 10px;
+    right: 45px;
+}
+
+#user {
+    float: block;
+    height: 25px;
+    width: auto;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 92px;
+    width: auto;
+}
+
+button {
+    width: 125px;
+    height: 25px;
+}
+
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-bar {
+    background-color:#f2f2f2;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+}
+
+.footer-bar-col1 {
+    float: left;
+    height: 100%;
+}
+
+.footer-bar-button-left {
+    float: left;
+    height: 100%;
+    padding-right: 20px;
+}
+
+.footer-bar-col2 {
+    float: right;
+    height: 100%;
+}
+
+.footer-bar-button-right {
+    float: right;
+    height: 100%;
+    padding-right: 20px;
+}
+
+.footer-bar-2 {
+    padding: 5px;
+    position: absolute;
+    bottom: 36px;
+    width: 100%;
+    background: #f2f2f2;
+    padding: 10px;
+} 
+
+hr {
+    position: absolute;
+    bottom: 36px;
+    width: 100%;
+    margin: 0;
+    border-color: #d8d6d657;
+} 
+
+#blue {
+    color: blue;
+}
+
+#container-bar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 30px;
+    border-radius: 25px;
+    border-color: lightgray;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#container-bar:hover {
+    outline: none;
+    border-color: lightgray;
+    box-shadow: 0 0 10px lightgray;   
+}
+
+
+#voice {
+    float: right;
+    height: 15px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+form {
+    display: inline;
+}
+
+input {
+    width: 400px;
+    border: none;
+    height: 20px;
+}
+ */
